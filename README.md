@@ -6,3 +6,4 @@
 * [Day 4 - Move Zeroes](4-move-zeroes/main.cpp)
 * [Day 7 - Counting Elements](7-counting-elements/main.cpp)
 * [Day 8 - Middle of the Linked List](8-middle-of-the-linked-list/main.cpp)
+* [Day 9 - Backspace String Compare](9-backspace-string-compare/main.cpp)
