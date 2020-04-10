@@ -8,3 +8,4 @@
 * [Day 7 - Counting Elements](7-counting-elements/main.cpp)
 * [Day 8 - Middle of the Linked List](8-middle-of-the-linked-list/main.cpp)
 * [Day 9 - Backspace String Compare](9-backspace-string-compare/main.cpp)
+* [Day 10 - Min Stack](10-min-stack/main.cpp)
