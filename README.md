@@ -13,3 +13,4 @@
 * [Day 9 - Backspace String Compare](week2/09-backspace-string-compare/main.cpp)
 * [Day 10 - Min Stack](week2/10-min-stack/main.cpp)
 * [Day 11 - Diameter of Binary Tree](week2/11-diameter-of-binary-tree/main.cpp)
+* [Day 12 - Last Stone Weight](week2/12-last-stone-weight/main.cpp)
