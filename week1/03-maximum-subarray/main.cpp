@@ -23,14 +23,17 @@ class Solution {
 public:
     int maxSubArray(const vector<int>& nums) {
         int sol = numeric_limits<int>::min();
-        const int size = nums.size();
-        for(int i = 0; i < size; i++) {
-            int curr = 0;
-            for(int j = i; j < size; j++) {
-                curr += nums[j];
-                sol = max(sol, curr);
+
+        int curr = 0;
+        for(int n : nums) {
+            curr += n;
+            sol = max(sol, curr);
+
+            if(curr < 0) {
+                curr = 0;
             }
         }
+
         return sol;
     }
 };
