@@ -15,3 +15,4 @@
 * [Day 11 - Diameter of Binary Tree](week2/11-diameter-of-binary-tree/main.cpp)
 * [Day 12 - Last Stone Weight](week2/12-last-stone-weight/main.cpp)
 * [Day 13 - Contiguous Array](week2/13-contiguous-array/main.cpp)
+* [Day 14 - Perform String Shifts](week2/14-perform-string-shifts/main.cpp)
