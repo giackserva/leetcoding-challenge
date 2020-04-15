@@ -1,4 +1,4 @@
-# 30 day Leetcoding challenge
+# 30-Day LeetCoding Challenge
 
 ## Week 1 - April 1st / April 7th
 * [Day 1 - Single Number](week1/01-single-number/main.cpp)
@@ -16,3 +16,6 @@
 * [Day 12 - Last Stone Weight](week2/12-last-stone-weight/main.cpp)
 * [Day 13 - Contiguous Array](week2/13-contiguous-array/main.cpp)
 * [Day 14 - Perform String Shifts](week2/14-perform-string-shifts/main.cpp)
+
+## Week 3 - April 15th / April 21th
+* [Day 15 - Product of Array Except Self](week3/15-product-of-array-except-self/main.cpp)
