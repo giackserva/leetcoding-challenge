@@ -20,3 +20,4 @@
 ## Week 3 - April 15th / April 21th
 * [Day 15 - Product of Array Except Self](week3/15-product-of-array-except-self/main.cpp)
 * [Day 16 - Valid Parenthesis String](week3/16-valid-parenthesis-string/main.cpp)
+* [Day 17 - Number of Islands](week3/17-number-of-islands/main.cpp)
