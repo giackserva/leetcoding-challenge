@@ -1,4 +1,12 @@
 # 30-Day LeetCoding Challenge
+<p align="center">
+    <a href="https://github.com/giackserva/leetcoding-challenge" alt="Completed">
+        <img src="https://img.shields.io/badge/completed-17%2F18-yellow" />
+    </a>
+    <a href="https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge" alt="Completed">
+        <img src="https://img.shields.io/badge/pusblished-18%2F31-success" />
+    </a>
+</p>
 
 ## Week 1 - April 1st / April 7th
 * [Day 1 - Single Number](week1/01-single-number/main.cpp)
