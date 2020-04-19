@@ -1,10 +1,10 @@
 # 30-Day LeetCoding Challenge
 <p align="center">
     <a href="https://github.com/giackserva/leetcoding-challenge" alt="Completed">
-        <img src="https://img.shields.io/badge/completed-17%2F18-yellow" />
+        <img src="https://img.shields.io/badge/completed-18%2F19-yellow" />
     </a>
     <a href="https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge" alt="Completed">
-        <img src="https://img.shields.io/badge/pusblished-18%2F31-success" />
+        <img src="https://img.shields.io/badge/pusblished-19%2F31-success" />
     </a>
 </p>
 
@@ -30,3 +30,4 @@
 * [Day 16 - Valid Parenthesis String](week3/16-valid-parenthesis-string/main.cpp)
 * [Day 17 - Number of Islands](week3/17-number-of-islands/main.cpp)
 * [Day 18 - Minimum Path Sum](week3/18-minimum-path-sum/main.cpp)
+* [Day 19 - Search in Rotated Sorted Array](week3/19-search-in-a-rotated-sorted-array/main.cpp)
