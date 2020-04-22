@@ -1,10 +1,10 @@
 # 30-Day LeetCoding Challenge
 <p align="center">
     <a href="https://github.com/giackserva/leetcoding-challenge" alt="Completed">
-        <img src="https://img.shields.io/badge/completed-20%2F21-yellow" />
+        <img src="https://img.shields.io/badge/completed-21%2F22-yellow" />
     </a>
     <a href="https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge" alt="Completed">
-        <img src="https://img.shields.io/badge/pusblished-21%2F31-success" />
+        <img src="https://img.shields.io/badge/pusblished-22%2F31-success" />
     </a>
 </p>
 
@@ -33,3 +33,6 @@
 * [Day 19 - Search in Rotated Sorted Array](week3/19-search-in-a-rotated-sorted-array/main.cpp)
 * [Day 20 - Construct Binary Search Tree from Preorder Traversal](week3/20-construct-binary-search-tree-from-preorder-traversal/main.cpp)
 * [Day 21 - Leftmost Column with at Least a One](week3/21-leftmost-column-with-at-least-a-one/main.cpp)
+
+## Week 4 - April 22th / April 28th
+* [Day 22 - Subarray Sum Equals K](week4/22-subarray-sum-equals-k/main.cpp)
