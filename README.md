@@ -1,10 +1,10 @@
 # 30-Day LeetCoding Challenge
 <p align="center">
     <a href="https://github.com/giackserva/leetcoding-challenge" alt="Completed">
-        <img src="https://img.shields.io/badge/completed-21%2F22-yellow" />
+        <img src="https://img.shields.io/badge/completed-22%2F23-yellow" />
     </a>
     <a href="https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge" alt="Completed">
-        <img src="https://img.shields.io/badge/pusblished-22%2F31-success" />
+        <img src="https://img.shields.io/badge/pusblished-23%2F31-success" />
     </a>
 </p>
 
@@ -36,3 +36,4 @@
 
 ## Week 4 - April 22th / April 28th
 * [Day 22 - Subarray Sum Equals K](week4/22-subarray-sum-equals-k/main.cpp)
+* [Day 23 - Bitwise AND of Numbers Range](week4/23-bitwise-and-of-numbers-range/main.cpp)
