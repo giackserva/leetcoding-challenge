@@ -1,10 +1,10 @@
 # 30-Day LeetCoding Challenge
 <p align="center">
     <a href="https://github.com/giackserva/leetcoding-challenge" alt="Completed">
-        <img src="https://img.shields.io/badge/solved-24%2F25-yellow" />
+        <img src="https://img.shields.io/badge/solved-25%2F27-yellow" />
     </a>
     <a href="https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge" alt="Completed">
-        <img src="https://img.shields.io/badge/pusblished-25%2F31-success" />
+        <img src="https://img.shields.io/badge/pusblished-27%2F31-success" />
     </a>
 </p>
 
@@ -39,3 +39,4 @@
 * [Day 22 - Subarray Sum Equals K](week4/22-subarray-sum-equals-k/main.cpp)
 * [Day 23 - Bitwise AND of Numbers Range](week4/23-bitwise-and-of-numbers-range/main.cpp)
 * [Day 25 - Jump Game](week4/25-jump-game/main.cpp)
+* [Day 27 - Maximal Square](week4/27-maximal-square/main.cpp)
